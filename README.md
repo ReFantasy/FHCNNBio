@@ -8,7 +8,7 @@ Furthermore, there are some experiments that are relatively complex and do not s
 Our training dataset is composed mainly of real-world data extracted from existing published literature, and the compilation of these datasets is available in repository https://github.com/CPShub/sim-data. In addition, the data used for finite element training and validation were generated using the [FEBio](https://febio.org) software. The relevant generation codes and material settings can be accessed in the folder **Data/fem**. Note that prior installation of Febio is required.
 
 ## Usage
-The code is primarily built using the latest PyTorch implementation; therefore, **in general, once you have installed the latest PyTorch and its corresponding Python dependencies, you can utilize your preferred editor to read and execute the code** (PyCharm is recommended).
+The code is primarily built using the latest PyTorch implementation; therefore, **in general, once you have installed the latest PyTorch and its corresponding Python dependencies, you can utilize your preferred editor to read and run the code** (PyCharm is recommended).
 - **Data**
   The comprehensive dataset employed for training and validation purposes is provided, including the Mathematica notebooks utilized for analytical verification.
 - **benchmark**
