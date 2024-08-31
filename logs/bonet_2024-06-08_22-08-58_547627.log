@@ -1,0 +1,2 @@
+2024-06-08 22:09:38.448 | INFO     | __main__:train:68 -   it: 1000 | loss: 34868.79296875 | rest time 2 h 45 m
+2024-06-08 22:10:11.750 | INFO     | __main__:train:68 -   it: 2000 | loss: 9878.28515625 | rest time 2 h 17 m

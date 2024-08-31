@@ -1,0 +1,4 @@
+2024-06-09 21:51:13.452 | INFO     | alalytical_experiment.NeoHookeanExp:train:72 -   it: 1000 loss: 290.1624450683594
+2024-06-09 21:51:43.766 | INFO     | alalytical_experiment.NeoHookeanExp:train:72 -   it: 2000 loss: 79.4292221069336
+2024-06-09 21:52:14.026 | INFO     | alalytical_experiment.NeoHookeanExp:train:72 -   it: 3000 loss: 30.19207191467285
+2024-06-09 21:52:44.208 | INFO     | alalytical_experiment.NeoHookeanExp:train:72 -   it: 4000 loss: 11.986751556396484
