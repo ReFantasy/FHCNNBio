@@ -1,6 +1,6 @@
 ## FHCNNBio: A Fiber-Reinforced Hyperelastic Constitutive Neural Network Model for Biological Tissues with Prior Physical Information
 
-**Update：Code is coming within two months!! 2025.8.20**
+**Update: Code is coming within two months!! 2025.8.20**
 
 
 This repository contains the code for our paper "FHCNNBio: A Fiber-Reinforced Hyperelastic Constitutive Neural Network Model for Biological Tissues with Prior Physical Information".
